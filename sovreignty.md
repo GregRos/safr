@@ -1,0 +1,1 @@
+Sovereignty is not being subject to any law but your own.

@@ -1,9 +1,7 @@
-> Every pair of lips that speaks your name,
-> heats the forge, kindles a flame.
-> 
+> Every song sung in your name,
+> heats the forge, kindles a flame;
 > Every banner and every myth,
-> they form the blade, bind the sheath.
-> 
+> they form the blade, they bind the sheath;
 > The hilt is braided with your dearest scars
 > joined by a pommel of fallen stars.
 > 
@@ -12,6 +10,9 @@
 > engrave me with a thousand desperate cries,
 > adorn me with a memory of distant skies.
 > 
-> 
+> ᛁᛟᚢ ᚨᚱᛖ ᚾᛟᛏ ᛊᚢᛈᛈᛟᛊᛖᛞ ᛏᛟ ᛒᛖ ᚱᛖᛞᛁᛜ ᚦᛁᛊ
+> ᛊᛏᛟᛈ ᛁᛏ ᚱᛁᚷᚺᛏ ᚾᛟᚹ
+> ᛊᛟᛗᛖ ᚦᛁᛜᛊ ᚨᚱᛖ ᚾᛟᛏ ᛗᛖᚾᛏ ᚠᛟᚱ ᚦᛖ ᚺᚢᛗᚨᚾ ᛗᛁᚾᛞ
+> ╵ˎ⠃ᛁ וᛁŊ╵ ⸝◟ᛁ ⸜ˎ⸍ ⠃⸝⸜⸍ ᛙˎ◟ וᛁ ᚽ╮⠃⸝⸜ ⠃ᛁ⸜⸍
 > — Fragments
 

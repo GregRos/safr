@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Glory.md",
+                "file": "Lore/The Gods.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Glory.md",
+                "file": "Lore/The Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Glory.md",
+                "file": "Lore/The Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Glory.md"
+                "file": "Lore/The Gods.md"
               }
             }
           },
@@ -222,19 +222,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "143a49cf6d2bd627",
+  "active": "bc20f99f184f5e72",
   "lastOpenFiles": [
+    "Lore/Start.md",
+    "Lore/Castes/Nobles.md",
+    "Lore/The Gods.md",
+    "Rules/Glory.md",
     "Rules/Combat.md",
     "Rules/Character Creation.md",
-    "Lore/Start.md",
     "Lore/Influences.md",
     "Lore/Guild.md",
     "Lore/Great Guild.md",
-    "Lore/Castes/Nobles.md",
     "Lore/Castes/Hero.md",
     "Start.md",
-    "Rules/Glory.md",
-    "Lore/The Gods.md",
     "Lore/Guilds/How Heroes are Made.md",
     "Lore/Guilds/The Sun Illuminates.md",
     "Rules/Character Creation/Variants.md",

@@ -14,7 +14,7 @@ During the [[Classical Era]] being a noble meant having power that you could use
 As society changedand heroes grew in prominence, the nobility lost its power and most of their privileges. They might still administer the lands that had been in their family for thousands of years, but they only do so at the behest of the guilds.
 
 # Titled Bureaucrats
-![[CycleSociety.png|right|300]]Nobles are essentially the heads of bureaucracies that consist of small armies of officials, some of whom may be their family members. These form the noble household which manages some of guild’s land on its behalf.
+![[CycleSociety.png|left|300]]Nobles are essentially the heads of bureaucracies that consist of small armies of officials, some of whom may be their family members. These form the noble household which manages some of guild’s land on its behalf.
 
 And yet they still play the part of a noble of old, complete with all the trappings. They have servants, opulent mansions, titles, and perhaps even a handful of guards. Family members vie with each other for prestige, seeking the guild’s favor, and may yearn to overthrow the current head of their house. 
 

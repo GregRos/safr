@@ -181,6 +181,10 @@
     font-size: 1.15em;
 }
 
+.callout.callout.callout {
+    max-width: unset;
+}
+
 .callout.callout.callout.callout[data-callout="highlight"] {
     font-family: "Georgia", serif;
     background-color: #32343865;
@@ -204,3 +208,4 @@
 .callout.callout.callout[data-callout="column"][data-callout-metadata~="serif"] {
     font-family: "Georgia", serif !important;
 }
+

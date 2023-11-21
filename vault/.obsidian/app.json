@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "package.json",
+    "package-lock.json",
+    "*.css",
+    "node_modules/",
+    "\"/node_modules/\"",
+    "\".*node_modules.*\""
+  ],
+  "showLineNumber": false
+}

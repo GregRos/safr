@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+        "label": "Watch SCSS",
+        "type": "shell",
+        "command": "npm run scss",
+        "isBackground": true,
+        "problemMatcher": [],
+        "group": {
+            "kind": "build",
+            "isDefault": true
+        }
+    },
+    {
+        "label": "Watch TypeScript",
+        "type": "shell",
+        "command": "npm run tsc",
+        "isBackground": true,
+        "problemMatcher": []
+    }
+]
+}

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "factions": "multitext",
+    "specialty": "multitext",
+    "principles": "multitext"
+  }
+}

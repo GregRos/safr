@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "custom-admonitions.33c7bc",
+    "big-fonts",
+    "wide",
+    "tableStyles",
+    "experiments"
+  ],
+  "translucency": false
+}

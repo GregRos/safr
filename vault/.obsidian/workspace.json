@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "609ece044d17252d",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b432c4e3d37f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f4bc10424a25c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Guilds/The Guildx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8af6e556b90e4ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scraps/Society/Social Order/The Commons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4aae2c916c55737",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Places/Nobleheim.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9ab486391e7a41f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/History/Guild War.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc291bef840a078f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Castes/Nobles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab66de932c19c606",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d66065e4d2261f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143a49cf6d2bd627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b15ac9cfe3002a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "network",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c0c4dbc3aef54eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.50744247436523
+  },
+  "right": {
+    "id": "5b6403dd7d5f6601",
+    "type": "split",
+    "children": [
+      {
+        "id": "4baed9ac909fd6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac3d692d37c86d34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Guilds/The Guildx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b05851dee22a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Guilds/The Guildx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "999251f2646a6884",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f458597abfcbc080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Guilds/The Guildx.md"
+              }
+            }
+          },
+          {
+            "id": "58782c725ca6258c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "48f4bc10424a25c1",
+  "lastOpenFiles": [
+    "Lore/Guilds/The Guildx.md",
+    "Lore/Guilds/The Sun Illuminates.md",
+    "Lore/Law/The Principles.md",
+    "Lore/Great Guild.md",
+    "Lore/Alliance.md",
+    "Lore/Great Cities.md",
+    "Lore/Guild.md",
+    "Lore/Castes/old-Pretenders.md",
+    "Lore/Castes/Vagrants.md",
+    "Lore/Castes/Peasants.md",
+    "Lore/Castes/Nobles.md",
+    "Lore/Castes/Heroes in Society.md",
+    "Lore/Places/Nobleheim.md",
+    "Scraps/Society/Social Order/The Commons.md",
+    "Lore/Guilds/How Heroes are Made.md",
+    "Lore/Start.md",
+    "Lore/Hero.md",
+    "Lore/Untitled.md",
+    "publish.css.map",
+    "examples/node/app.js.md",
+    "examples/node",
+    "examples",
+    "Lore/Divinity/The Ocean of Gods.md",
+    "Scraps/Society/Social Order/The Castes.md",
+    "README.md",
+    "Start.md",
+    "Untitled.md",
+    "sovreignty.md",
+    "Heroes.md",
+    "Pasted image 20231120214555.png",
+    "Pasted image 20231120214955.png",
+    "Resources/CycleSociety (1).png",
+    "node_modules/promise-inflight/package.json",
+    "node_modules/promise-inflight/LICENSE",
+    "node_modules/promise-inflight/inflight.js",
+    "node_modules/promise-inflight",
+    "node_modules/path-is-absolute/package.json",
+    "node_modules/path-is-absolute/license",
+    "node_modules/path-is-absolute/index.js",
+    "node_modules/node-gyp/node_modules/unique-filename/coverage/sort-arrow-sprite.png",
+    "Resources/NPCs/OldCountessLady.png",
+    "Resources/CycleSociety.png",
+    "Resources/Places/Silverkeep/Silverkeep.png",
+    "Resources/SAFR-bloody.png",
+    "Resources/SAFR-logo.png",
+    "Resources/NPCs/BeatenLadyKnight.png",
+    "Lore/Castes/The Cycle of Society.canvas",
+    "Lore/Guilds/Untitled.canvas",
+    "Templates/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

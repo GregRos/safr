@@ -2,7 +2,6 @@
 aliases:
   - guilds
 ---
-
 In a world long removed from the era of nations and kingdoms, guilds have become the dominant force in society and politics. These guilds, evolving beyond traditional professional associations, replaced ancient governmental structures long ago. This shift has profoundly reshaped societal dynamics, establishing guilds as the primary form of governance.
 
 Guilds, initially formed as networks of [[Heroes]], have evolved from informal alliances into powerful, sovereign entities. Originating from heroes' needs for collaboration and support, these guilds have grown into influential collectives, commanding extensive territories.
@@ -13,10 +12,10 @@ Being sovereign powers, guilds are bound not by laws, but by alliances, obligati
 
 A guild’s sovereignty rests on its ability to defend its interests and territories, and thus on its capacity to wage [[Guild War]]. While guild war is no longer common, the ability to wage it is a primary concern for every guild.
 
->[!grid|masonry] dfsdf
+>[!grid|masonry]
 >![[Hundred-Blades-In-Defiance.png]]
 >![[cerulean-wave.png]]
-> <center> The banners of two guilds </center>
+> <center> Guild banners </center>
 
 # Guild Lands
 The guilds together divide most of the known world into *guild lands*, territories under their protection. Since they have a monopoly on protection in these lands, they also have a monopoly on force, meaning they can do in these lands as they see fit.

@@ -1,1 +1,0 @@
-This occurred soon after [[The Forging|Forging]]. Their enemies, the [[Titans]], were being killed. They retreated to high plateaus. 

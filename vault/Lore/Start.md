@@ -1,11 +1,30 @@
-This is the home page for the World Encyclopædia. Recommended reading list:
+This is the World Encyclopædia! It’s about the SAFR world and the things in it. You can check the [[Influences]] to see if there is anything you’re familiar with.
 
-1. [[The Guildx]], which is the most important entity in the known world.
+> [!highlight]
+> Right now the encyclopedia is meant to give you a broad understanding of how society functions. 
 
-3. [[Heroes in Society]] talks about the privileges heroes have.
-4. [[How Heroes are Made]] about how people become heroes.
-5. [[old-Pretenders]] about the people who don’t quite have what it takes to be a hero.
-6. [[The Commons]] talks about how commoners see the guild and life in general. It’s short.
-7. [[Religion]] describes the general religious system of the setting.
+It doesn’t have any specifics – I’ll fill those in as you discover them (or make them up.)
 
-Also, you can see the [[Influences]] if you’re curious.  
+> [!highlight]
+> The setting takes the heroic fantasy tropes as fact and looks at the social structure that might arise from them.
+
+The result is similar to the generic fantasy setting, which lets you build a character without worrying too much about this stuff. However, the social structure is nothing like medieval Europe.
+
+> [!highlight]
+> [[Hero|Heroes]] run the world, and [[nobles]] are just fancy bureaucrats.
+
+The most important organization is the [[Guild|heroic guild]]. These guilds cover the known world and act as sovereign, territorial entities – kind of like nation-states. Together they form a network called the [[Great Guild]].
+
+# Reading List
+You should probably skim at least some of it.
+
+|                                                              What | Description |
+|:--------------- |:------------------------------------------------------------- | ---- |
+| [[Hero]]        | Will be the most important article… when I finally finish it. |      |
+| [[Guild]]       | Defines the most important type of entity in the setting.     |      |
+| [[The Gods]]    | How religion is like in the setting.                          |      |
+| [[Great Guild]] | The network of all the guilds. It covers the known world.     |      |
+| [[Nobles]]      | What being a noble means.                                     |      |
+| [[Peasants]]    | How it is for the common folk, including city people.         |      |
+| [[Vagrants]]    | Turning loitering into a caste.           |      |
+

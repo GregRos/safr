@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Guilds/The Guildx.md",
+                "file": "Lore/Castes/Hero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc20f99f184f5e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Glory.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/History/Guild War.md",
+                "file": "Scraps/Guild War.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Guilds/The Guildx.md",
+                "file": "Rules/Glory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Guilds/The Guildx.md",
+                "file": "Rules/Glory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Guilds/The Guildx.md"
+                "file": "Rules/Glory.md"
               }
             }
           },
@@ -209,40 +222,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48f4bc10424a25c1",
+  "active": "143a49cf6d2bd627",
   "lastOpenFiles": [
-    "Lore/Guilds/The Guildx.md",
-    "Lore/Guilds/The Sun Illuminates.md",
-    "Lore/Law/The Principles.md",
-    "Lore/Great Guild.md",
-    "Lore/Alliance.md",
-    "Lore/Great Cities.md",
-    "Lore/Guild.md",
-    "Lore/Castes/old-Pretenders.md",
-    "Lore/Castes/Vagrants.md",
-    "Lore/Castes/Peasants.md",
-    "Lore/Castes/Nobles.md",
-    "Lore/Castes/Heroes in Society.md",
-    "Lore/Places/Nobleheim.md",
-    "Scraps/Society/Social Order/The Commons.md",
-    "Lore/Guilds/How Heroes are Made.md",
+    "Rules/Combat.md",
+    "Rules/Character Creation.md",
     "Lore/Start.md",
-    "Lore/Hero.md",
-    "Lore/Untitled.md",
+    "Lore/Influences.md",
+    "Lore/Guild.md",
+    "Lore/Great Guild.md",
+    "Lore/Castes/Nobles.md",
+    "Lore/Castes/Hero.md",
+    "Start.md",
+    "Rules/Glory.md",
+    "Lore/The Gods.md",
+    "Lore/Guilds/How Heroes are Made.md",
+    "Lore/Guilds/The Sun Illuminates.md",
+    "Rules/Character Creation/Variants.md",
+    "Lore/Castes/Vagrants.md",
+    "Lore/Places/Silverkeep.md",
+    "Lore/Places/Nobleheim.md",
+    "Lore/Law/The Principles.md",
+    "Lore/History/Classical Era.md",
+    "Lore/Factions/Bargemasters.md",
+    "Lore/Factions/Tragedians.md",
+    "Lore/Factions/Nobleheim Militia.md",
+    "Scraps/Heroes in Society.md",
+    "Lore/Castes/Peasants.md",
+    "Scraps/Guild War.md",
+    "Resources/OceanOfGods.modern.framed (1).png",
+    "Resources/OceanOfGods.classical.framed (1).png",
+    "Resources/Untitled design.png",
+    "Resources/OceanOfGods.classical.framed.png",
+    "Resources/OceanOfGods.classical.framed2.png",
+    "Resources/OceanOfGods.modern.framed.png",
+    "Resources/OceanOfGods.modern.png",
+    "Resources/OceanOfGods.classical.png",
+    "Resources/OceanOfGods-old.png",
+    "Resources/OceanOfGods.png",
     "publish.css.map",
-    "examples/node/app.js.md",
     "examples/node",
     "examples",
-    "Lore/Divinity/The Ocean of Gods.md",
-    "Scraps/Society/Social Order/The Castes.md",
-    "README.md",
-    "Start.md",
-    "Untitled.md",
-    "sovreignty.md",
-    "Heroes.md",
-    "Pasted image 20231120214555.png",
-    "Pasted image 20231120214955.png",
-    "Resources/CycleSociety (1).png",
     "node_modules/promise-inflight/package.json",
     "node_modules/promise-inflight/LICENSE",
     "node_modules/promise-inflight/inflight.js",
@@ -250,13 +269,6 @@
     "node_modules/path-is-absolute/package.json",
     "node_modules/path-is-absolute/license",
     "node_modules/path-is-absolute/index.js",
-    "node_modules/node-gyp/node_modules/unique-filename/coverage/sort-arrow-sprite.png",
-    "Resources/NPCs/OldCountessLady.png",
-    "Resources/CycleSociety.png",
-    "Resources/Places/Silverkeep/Silverkeep.png",
-    "Resources/SAFR-bloody.png",
-    "Resources/SAFR-logo.png",
-    "Resources/NPCs/BeatenLadyKnight.png",
     "Lore/Castes/The Cycle of Society.canvas",
     "Lore/Guilds/Untitled.canvas",
     "Templates/Untitled.canvas",

@@ -1,1 +1,0 @@
-In this battle, a party of adventurers defeated an army of 10,000.

@@ -7,6 +7,6 @@
     "typescript": "^5.3.2"
   },
   "scripts": {
-    "scss": "sass --watch vault ./experiments.scss"
+    "scss": "sass --watch experiments.scss:vault/.obsidian/snippets/experiments.css"
   }
 }

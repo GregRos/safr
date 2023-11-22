@@ -1,6 +1,6 @@
 This page will introduce the different services we use to run the campaign. We’re at **the world encyclopædia**. 
 
-# [World Encyclopædia](https://world.safr.gregros.dev)
+# [World Encyclopædia](https://world.safr.gregros.dev/Lore/Start)
 This is where stuff about the setting will go. A lot of it is stuff your characters might not know personally.
 
 # [Virtual Tabletop](https://safr.gregros.dev/game)

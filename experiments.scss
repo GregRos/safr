@@ -1,3 +1,13 @@
+@function repeat-string($string, $count) {
+    $result: "";
+
+    @for $i from 1 through $count {
+        $result: $result + $string;
+    }
+
+    @return $result;
+}
+
 .site-body-left-column,
 .published-container {
     background-color: #160d04;
@@ -7,14 +17,22 @@
 .markdown-preview-view {
     font-size: 1.1rem;
     color: #ffffff;
-    background:
-        linear-gradient(#352912e0, #352912e0),
-        linear-gradient(#352912e0, #352912e0),
-        linear-gradient(#352912e0, #352912e0),
-        url("https://cdn.discordapp.com/attachments/1103467254026354798/1175923336233099339/recklessheroism_faded_parchment_pattern_bb70d3a0-b6ee-4a44-9150-2db29657335b.png?ex=656cfef2&is=655a89f2&hm=d4767d9d149e909cdbdea63db8ac76fb6b5a5f9fc07bd103969888a6fe6cdeac&")
-            local;
-    background-blend-mode: hard-light;
-    background-attachment: local, local, local, local;
+    .cm-scroller,
+    .nav-files-container,
+    .image-container {
+        background: url("https://xyz.gregros.dev/parchment_dark.png"), url("https://xyz.gregros.dev/parchment_dark.png"),
+            url("https://xyz.gregros.dev/parchment_dark.png");
+        background-size:
+            100% 100%,
+            80% 80%,
+            120% 120%;
+        background-repeat: repeat;
+        background-attachment: local, local, local;
+        background-position:
+            0px 0px,
+            437px 129px,
+            -391px -571px;
+    }
 }
 
 .workspace-leaf-content .markdown-reading-view,
@@ -96,6 +114,7 @@
     background-color: #640e0e00;
     border-radius: 10px;
     border: 3px solid #538125;
+    max-width: 40vh !important;
 }
 
 .callout.callout[data-callout~="infobox"] .image-embed {
@@ -171,41 +190,60 @@
     border: 3px solid black;
 }
 
-/* Additions */
-[data-path="Resources"],
-[data-path="Templates"] {
-    display: none;
-}
-
 .tree-item-inner {
     font-size: 1.15em;
 }
 
+.HyperMD-header.HyperMD-header.HyperMD-header {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 100px;
+    margin-bottom: 4px !important;
+    box-shadow: 5px 5px 5px 5px #0000005e;
+}
+$sizes: 1, 2, 3, 4, 5, 6;
+
+@each $size in $sizes {
+    .HyperMD-header-#{$size}.HyperMD-header-#{$size}.HyperMD-header-#{$size} {
+        
+        &::after {
+            content: repeat-string("∙", $size);
+            margin-right: 5px;
+            display: inline;
+            width: auto;
+            background: transparent;
+            float: right;
+        }
+    }
+}
+
 .callout.callout.callout {
     max-width: unset;
-}
-
-.callout.callout.callout.callout[data-callout="highlight"] {
-    font-family: "Georgia", serif;
-    background-color: #32343865;
-    border-color: #e4a246;
-    color: #ffffff;
-    margin-bottom: 10px;
-    border-radius: 20px;
-    border: 5px solid rgba(0, 0, 0, 0.625);
-    p {
-        font-size: 1.35rem;
-        padding: 0;
-        margin: 0;
+    &[data-callout="column"][data-callout-metadata~="serif"] {
+        font-family: "Georgia", serif !important;
     }
-    .callout-title {
-        display: none;
-        padding: 0;
-        margin: 0;
+    &[data-callout="highlight"] {
+        opacity: 0.81;
+        font-family: "Georgia", serif;
+        border-left: 3px solid black;
+        border-right: 3px solid black;
+        background-color: #32343865;
+        border-color: #e4a246;
+        color: #ffffff;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border-bottom-right-radius: 100px;
+        border-top-left-radius: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
+        p {
+            font-size: 1.35rem;
+            padding: 0;
+            margin: 0;
+        }
+        .callout-title {
+            display: none;
+            padding: 0;
+            margin: 0;
+        }
     }
 }
-
-.callout.callout.callout[data-callout="column"][data-callout-metadata~="serif"] {
-    font-family: "Georgia", serif !important;
-}
-

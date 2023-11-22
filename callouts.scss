@@ -1,7 +1,27 @@
-.callout.callout.callout.callout[data-callout-metadata~="highlight"] {
+.callout.callout.callout.callout[data-callout~="highlight"] {
     background-color: #7986cd3d;
     border-color: #e4a246;
     color: #ffffff;
-    font-size: 1.65rem;
-    margin-bottom: 10px;
+    opacity: 0.81;
+    font-family: "Georgia", serif;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    background-color: #32343865;
+    border-color: #e4a246;
+    color: #ffffff;
+    border-radius: 5px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    p {
+        font-size: 1.15rem;
+        padding: 0;
+        margin: 0;
+    }
+    .callout-title {
+        display: none;
+        padding: 0;
+        margin: 0;
+    }
 }

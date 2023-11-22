@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Gods.md",
+                "file": "Lore/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Gods.md"
+                "file": "Lore/Start.md"
               }
             }
           },
@@ -224,6 +224,7 @@
   },
   "active": "bc20f99f184f5e72",
   "lastOpenFiles": [
+    "Lore/The Gods.md",
     "Lore/Castes/Peasants.md",
     "Lore/Castes/Nobles.md",
     "Lore/Places/Silverkeep.md",
@@ -238,7 +239,6 @@
     "Lore/Influences.md",
     "Lore/Guild.md",
     "Lore/Factions/Nobleheim Militia.md",
-    "Lore/The Gods.md",
     "Resources/Places/Nobleheim/Ambience.png",
     "Resources/OceanOfGods.modern.framed.png",
     "Resources/Places/Nobleheim/Courtyard.png",

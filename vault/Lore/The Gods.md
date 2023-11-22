@@ -5,7 +5,7 @@ This exploration has led them to a profound understanding: throughout history, a
 
 Even during the present day, the number and variety of gods and pantheons worshipped throughout the [[Great Guild]] is staggering.
 
-This conucopia has been commented on for thousands of years, resulting in both treatises on the nature of the divine and works of art. A common theme has been the concept of an *Ocean of Gods*, in which the gods are compared to an infinite ocean.
+This conucopia has been commented on for thousands of years, resulting in both treatises on the nature of the di vine and works of art. A common theme has been the concept of an *Ocean of Gods*, in which the gods are compared to an infinite ocean.
 
 > [!column|no-title serif]
 >> [!caption]
